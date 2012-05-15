@@ -84,7 +84,7 @@ _gaq.push(['_trackPageLoadTime']);
 <div id="page-content" class="page-content">
 <div class="service-wrapper">
     <p class="service-nav">
-            <a href=""><?php echo $Vote['Vote2']; ?></a>
+            <a href="voteshop.php"><?php echo $Vote['Vote2']; ?></a>
             <a href="vote-history.php" class="active"><?php echo $Vote['Vote3']; ?></a>
             <a href=""><?php echo $Vote['Vote4']; ?></a>
             <a href="vote.php"><?php echo $Vote['Vote5']; ?></a>
